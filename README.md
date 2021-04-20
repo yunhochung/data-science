@@ -75,4 +75,4 @@ https://deepinsight.tistory.com/176?category=1000507
 
 - [캐글(Kaggle) 도전기](https://slidesplayer.org/slide/17955781/)
 
-* 
+* [캐글 커널 스터디 - 타이타닉](https://www.youtube.com/watch?v=VOjIb2TJyWg&list=PLC_wC_PMBL5Owf0FCwIFjcFPk5Yuy1heT)
