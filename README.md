@@ -15,6 +15,10 @@ https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki
 
 ## Kaggle 입문하기
 
+* 노트북(커널) 사양
+  * Disk(20G), CPU(4Core, 16G RAM), GPU(2Core, 13G RAM), TPU(4Core, 16G RAM) ('21 4/23 기준)
+  * https://www.kaggle.com/docs/notebooks > "Technical Specifications"
+
 ### 캐글(Kaggle) 입문하기
 
 https://m.blog.naver.com/ckdgus1433/221443513440
@@ -110,6 +114,10 @@ https://kaggle-kr.tistory.com/21?category=868320
 ### 당신이 알고 있는 좋은 데이터 분석 슬라이드가 있나요?
 
 https://github.com/zzsza/awesome-data-analysis-slides
+
+### How to fetch Kaggle Datasets into Google Colab
+
+https://medium.com/analytics-vidhya/how-to-fetch-kaggle-datasets-into-google-colab-ea682569851a
 
 
 
