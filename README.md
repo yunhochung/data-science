@@ -160,6 +160,8 @@ https://github.com/zzsza/Kaggle-knowhow
 
 ### [Python(파이썬)을 활용한 데이터 분석 실습](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=119)
 
+### [단국대 2020년 가을학기 캐글 뽀개기 강좌](https://kaggler-tv.github.io/dku-kaggle-class/main.html)
+
 
 
 ## 스터디
