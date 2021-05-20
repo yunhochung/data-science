@@ -81,6 +81,7 @@ https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki
 * 노트북(커널) 사양
   * Disk(20G), CPU(4Core, 16G RAM), GPU(2Core, 13G RAM), TPU(4Core, 16G RAM) ('21 4/23 기준)
   * https://www.kaggle.com/docs/notebooks > "Technical Specifications"
+* [Google Colaboratory](GoogleColaboratory.md)
 
 ### 캐글(Kaggle) 입문하기
 
