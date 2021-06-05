@@ -16,6 +16,7 @@ Table of Contents
          * [파이썬 몇 줄로 간단히 해보는 탐색적 자료 분석 - 김영하](#파이썬-몇-줄로-간단히-해보는-탐색적-자료-분석---김영하)
          * [[추천] 캐글을 통한 비전공자의 인공지능 전공자 되기 - 허경훈](#추천-캐글을-통한-비전공자의-인공지능-전공자-되기---허경훈)
          * [밑바닥부터 Kaggle 파헤치기 (feat.Kaggle에 대한 완벽한 계획은 있었다)](#밑바닥부터-kaggle-파헤치기-featkaggle에-대한-완벽한-계획은-있었다)
+         * [Hello Kaggle! 캐글이 처음인 분들을 위한 캐글 가이드](#hello-kaggle-캐글이-처음인-분들을-위한-캐글-가이드)
       * [캐글 코리아 캐글 스터디 커널 커리큘럼 - 이유한](#캐글-코리아-캐글-스터디-커널-커리큘럼---이유한)
       * [Kaggle-knowhow](#kaggle-knowhow)
       * [Kaggle 강의/동영상](#kaggle-강의동영상)
@@ -29,6 +30,7 @@ Table of Contents
          * [<a href="https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=194" rel="nofollow">추천시스템 분석 입문하기</a>](#추천시스템-분석-입문하기)
          * [<a href="https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=182" rel="nofollow">정형데이터 분석 기초</a>](#정형데이터-분석-기초)
          * [<a href="https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=119" rel="nofollow">Python(파이썬)을 활용한 데이터 분석 실습</a>](#python파이썬을-활용한-데이터-분석-실습)
+         * [<a href="https://kaggler-tv.github.io/dku-kaggle-class/main.html" rel="nofollow">단국대 2020년 가을학기 캐글 뽀개기 강좌</a>](#단국대-2020년-가을학기-캐글-뽀개기-강좌)
       * [스터디](#스터디)
          * [ML/Kaggle 스터디](#mlkaggle-스터디)
          * [파이썬 머신러닝 완벽 가이드 스터디](#파이썬-머신러닝-완벽-가이드-스터디)
@@ -61,6 +63,8 @@ Table of Contents
             * [유무의 코딩 생활](#유무의-코딩-생활-2)
          * [<a href="https://www.kaggle.com/c/sf-crime" rel="nofollow">8. San Francisco Crime Classification</a>](#8-san-francisco-crime-classification)
             * [유무의 코딩 생활](#유무의-코딩-생활-3)
+
+
 
 [TOC]
 
@@ -206,6 +210,8 @@ https://medium.com/analytics-vidhya/how-to-fetch-kaggle-datasets-into-google-col
 ### [1. Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 타이타닉 탑승자 특성을 바탕으로 한 생존자 예측
+
+* [[필사] EDA To Prediction (DieTanic)](https://colab.research.google.com/drive/1BIvw8X37xMX4lq1WM_oOqqnSV1cjd3LR?usp=sharing)
 
 - #### [캐글(Kaggle) 도전기 - 산타클로스 팀](https://slidesplayer.org/slide/17955781/)
 
