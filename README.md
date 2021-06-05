@@ -43,6 +43,7 @@ Table of Contents
          * [<a href="https://subinium.github.io/" rel="nofollow">안수빈의 블로그 - 안수빈</a>](#안수빈의-블로그---안수빈)
       * [Kaggle Competitions(경진대회)](#kaggle-competitions경진대회)
          * [<a href="https://www.kaggle.com/c/titanic" rel="nofollow">1. Titanic: Machine Learning from Disaster</a>](#1-titanic-machine-learning-from-disaster)
+            * [<a href="https://colab.research.google.com/drive/1BIvw8X37xMX4lq1WM_oOqqnSV1cjd3LR?usp=sharing" rel="nofollow">[필사] EDA To Prediction (DieTanic)</a>](#필사-eda-to-prediction-dietanic)
             * [<a href="https://slidesplayer.org/slide/17955781/" rel="nofollow">캐글(Kaggle) 도전기 - 산타클로스 팀</a>](#캐글kaggle-도전기---산타클로스-팀)
             * [<a href="https://www.youtube.com/playlist?list=PLC_wC_PMBL5Owf0FCwIFjcFPk5Yuy1heT" rel="nofollow">캐글 커널 스터디 - 타이타닉(이유한)</a>](#캐글-커널-스터디---타이타닉이유한)
             * [새벽 5시 캐글(kaggle) 필사하기(이수진)](#새벽-5시-캐글kaggle-필사하기이수진)
@@ -63,8 +64,6 @@ Table of Contents
             * [유무의 코딩 생활](#유무의-코딩-생활-2)
          * [<a href="https://www.kaggle.com/c/sf-crime" rel="nofollow">8. San Francisco Crime Classification</a>](#8-san-francisco-crime-classification)
             * [유무의 코딩 생활](#유무의-코딩-생활-3)
-
-
 
 [TOC]
 
@@ -211,7 +210,7 @@ https://medium.com/analytics-vidhya/how-to-fetch-kaggle-datasets-into-google-col
 
 타이타닉 탑승자 특성을 바탕으로 한 생존자 예측
 
-* [[필사] EDA To Prediction (DieTanic)](https://colab.research.google.com/drive/1BIvw8X37xMX4lq1WM_oOqqnSV1cjd3LR?usp=sharing)
+* #### [[필사] EDA To Prediction (DieTanic)](https://colab.research.google.com/drive/1BIvw8X37xMX4lq1WM_oOqqnSV1cjd3LR?usp=sharing)
 
 - #### [캐글(Kaggle) 도전기 - 산타클로스 팀](https://slidesplayer.org/slide/17955781/)
 
